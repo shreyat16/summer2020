@@ -1,0 +1,14 @@
+.HomePage {
+    text-align: center;  
+}
+  
+  
+  a {
+    color: rgb(102, 23, 247);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
