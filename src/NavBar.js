@@ -9,10 +9,10 @@ class NavBar extends Component {
         <NavLink exact activeClassName='NavBar-active' to='/'>
           Home
         </NavLink>
-        <NavLink exact activeClassName='NavBar-active' to='/candy'>
+        <NavLink exact activeClassName='NavBar-active' to='/hand'>
           Hand Project
         </NavLink>
-        <NavLink exact activeClassName='NavBar-active' to='/chips'>
+        <NavLink exact activeClassName='NavBar-active' to='/python'>
           Python Projects
         </NavLink>
       </div>

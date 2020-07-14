@@ -1,5 +1,5 @@
 .NavBar {
-    background: linear-gradient(138deg, rgba(255,174,71,1) 6%, rgba(190,111,252,1) 100%);
+    background: rgb(241, 176, 91);
     width: 100%;
     padding: 1.5rem;
     display: flex;
@@ -12,7 +12,7 @@
     transition: all 0.5s ease;
   }
   .NavBar a.NavBar-active {
-    color: white;
+    color: rgb(94, 93, 93);
     text-decoration: underline;
   }
   

@@ -1,13 +1,16 @@
 import React, {Component} from 'react';
 import './Python.css';
 import {Link} from "react-router-dom";
+import Message from "./Message";
 
 class Python extends Component{
   render(){
     return (
       <div className="Python">
-        <h1>python page</h1>
-        <h1><Link to="/">go back!</Link></h1>
+        <Message>
+          <h1>python page</h1>
+          <h2><Link to="/">Return to home</Link></h2>
+        </Message>
       </div>
     );
   }
