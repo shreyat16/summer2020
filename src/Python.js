@@ -8,7 +8,7 @@ class Python extends Component{
     return (
       <div className="Python">
         <Message>
-          <h1>python page</h1>
+          <h1>My Experience with Learning Python</h1>
           <h2><Link to="/">Return to home</Link></h2>
         </Message>
       </div>

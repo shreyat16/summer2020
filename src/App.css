@@ -16,3 +16,13 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.App{
+  -webkit-transform:scale(0.89);
+  -moz-transform:scale(0.89);
+  -ms-transform:scale(0.89);
+  transform:scale(0.89);
+  -ms-transform-origin:0 0;
+  -webkit-transform-origin:0 0;
+  -moz-transform-origin:0 0;
+  transform-origin:0 0;}
