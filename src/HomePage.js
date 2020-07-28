@@ -41,7 +41,7 @@ class HomePage extends Component{
           </h3>
           <h2><Link to="/python">Read more about my experience with learning Python</Link></h2>
           <h2>
-            This summer, I wanted to use the time I had to enhance my educational experience and learn more about subjects I’m interested in. 
+            This summer, I wanted to use the time I had to learn more about subjects I’m interested in. 
             This Honors Mini-Grant was the perfect opportunity for me to do that.
           </h2>
         </Message>

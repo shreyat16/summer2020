@@ -13,7 +13,7 @@ class NavBar extends Component {
           Hand Project
         </NavLink>
         <NavLink exact activeClassName='NavBar-active' to='/python'>
-          Python Projects
+          My Experience Learning Python
         </NavLink>
       </div>
     );
