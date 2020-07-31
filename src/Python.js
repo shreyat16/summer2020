@@ -21,9 +21,9 @@ class Python extends Component{
           <h3>This is also a simple tic-tac-toe game I coded in Python. </h3>
           <div><img className = "tictactoecode" src={tictactoecode} alt="tictactoecode" /></div>
           <img className = "tictactoegame" src={tictactoegame} alt="tictactoegame" />
-          <h3>And this is a pig-latin translator I coded to learn about strings and string functions in Python. </h3>
+          <h3>And finally, this is a pig-latin translator I coded to learn about strings and string functions in Python. </h3>
           <img className = "piglatin" src={piglatin} alt="piglatin" />
-          <h2><Link to="/">Return to home</Link></h2>
+          <h2><Link to="/">Return to Home</Link></h2>
         </Message>
       </div>
     );

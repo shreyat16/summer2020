@@ -9,7 +9,7 @@ class HomePage extends Component{
       <div className="HomePage">
         <Message>
           <h1 className="title">Shreya Thammana's Honors Mini-Grant</h1>
-          <h1>This summer, I recieved an Honors Mini-Grant from the Calhoun Honors College. </h1>
+          <h1>This summer, I received an Honors Mini-Grant from the Clemson University Honors College. </h1>
           <h2>
               The purpose of this Honors Mini-Grant was to allow me to work on a personal project for my academic and intellectual development. 
               I took this opportunity to focus on and enhance my skills and knowledge in two disciplines I have always been interested in.
@@ -29,8 +29,8 @@ class HomePage extends Component{
             Last semester at Clemson, I took an Intro to Computer Science class, where I learned how to program in C. 
             I found this class very interesting because I had never done a computer science course before.
             Also, in my engineering class last semester, I learned how to program in MATLAB.
-            In additon, this summer I attended TRACE Camp, where I learned how to make interactive websites using the React and Gatsby frameworks.
-            I’ve discovered that I am passionate about learning how to program, which leads me to the second part of my grant.
+            In addition, this summer I attended TRACE Camp, where I learned how to make interactive websites using the React and Gatsby frameworks.
+            I’ve discovered that I am passionate about learning how to program.
           </h3>
           <h3>
             This summer, I also wanted to use my time to take a course for learning how to code in Python. 
@@ -41,7 +41,7 @@ class HomePage extends Component{
           </h3>
           <h2><Link to="/python">Read more about my experience with learning Python</Link></h2>
           <h2>
-            This summer, I wanted to use the time I had to learn more about subjects I’m interested in. 
+            I wanted to use the extra time I had this summer to learn more about subjects I’m interested in. 
             This Honors Mini-Grant was the perfect opportunity for me to do that.
           </h2>
         </Message>
